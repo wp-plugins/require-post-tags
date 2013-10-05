@@ -1,4 +1,4 @@
-=== Require Post Category ===
+=== Require Post Tags ===
 Contributors: joshhartman
 Tags: post, tags, require, force, publish, draft, admin
 Requires at least: 3.0
