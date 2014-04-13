@@ -2,7 +2,7 @@
 Contributors: joshhartman
 Tags: post, tags, require, force, publish, draft, admin
 Requires at least: 3.0
-Tested up to: 3.6
+Tested up to: 3.8
 Stable tag: 1.0
 
 Require users to add at least one post tag before saving a draft, updating a post, or publishing a post.  This applies to normal posts and may not be compatible with custom write panels or custom post types.
